@@ -1,0 +1,4 @@
+This is a demo file for Automation
+This is an update after the first translation. This is done with machine translation.
+This is an update to the test.txt file under "automation/sources".
+This is a test

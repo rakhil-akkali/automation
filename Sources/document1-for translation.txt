@@ -1,0 +1,4 @@
+This is a test text in GitHub.
+This is line number 2 in the file.
+This is line 3 of the document1-for translation.txt file.
+This is a test
